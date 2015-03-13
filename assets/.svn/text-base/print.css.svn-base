@@ -1,0 +1,176 @@
+body {
+	background-color: transparent;
+	color: #FFFFFF;
+	}
+a {
+	color: #F5D494;
+	}
+a:visited {
+	color: #F5D494;
+	}
+a:hover {
+	color: #FFB600;
+	}
+p2 {
+color: #000000;
+}
+#header h1 a, h1 a:visited{
+	color: #c9eefe;
+}
+#header h1 a:hover{
+	color: #ffffff;
+}
+#printfoot { display: none; }
+#printhead { display: none; }
+
+#pagelead h1,#pagelead h1 a,
+#sidebar .sidehead,
+h2, h2 a, h2 a:visited  {
+	color: #008df1;
+	}
+h2, #sidebar .sidehead {
+	border-color: #cccccc;
+	}
+h2 a:hover {
+	color: #FFB600;
+	}
+h3, h4 {
+	color: #48A4F7;
+	}
+hr {
+	border-color: #0796C5;
+	}
+#page {
+	border-color: #d5e6eb;
+	background-color: #ffffff;
+	}
+
+/* content
+--------------------------------------------------*/
+.post-month {
+	color: #FFFFFF;
+}
+.post-day, .post-year {
+	color: #999999;
+}
+.navigation a, .navigation a:visited {
+	color: #0796C5;
+}
+ul.blogit-meta-data li {
+	color: #CC6633;
+}
+
+/* comments
+--------------------------------------------------*/
+#comments, #respond {
+	border-bottom-color: #CCCCCC;
+}
+.blogit-comment-list .alt {
+	background: #f1fedb;
+}
+.blogit-comment-list .cite, .blogit-comment-list .cite a, .blogit-comment-list .cite a:visited {
+	color: #CC6600;
+}
+#commentform label{
+	color: #787878;
+}
+#commentform input{
+	background:#f1fedb;
+	border-color: #bdd77f;
+}
+#commentform textarea{
+	background:#f1fedb;
+	border-color: #bdd77f;
+}
+#commentform textarea:focus, #commentform input[type="text"]:focus {
+	background: #ffffff;
+}
+
+/* headings
+--------------------------------------------------*/
+#headerimg .description,
+#headerimg .sitetitle, #headerimg .sitetitle a, #headerimg .sitetitle a:visited {
+	color: #c9eefe;
+	}
+#headerimg .description a {
+	color: #fff;
+	}
+#headerimg .sitetitle a:hover, #header .pageheader a:hover {
+	color: #000066;
+	}
+
+/* nav
+--------------------------------------------------*/
+#nav .selflink, #nav .selflink:visited, #nav li a:hover {
+	color: #000066;
+	}
+#nav li a {
+	color: #ffffff;
+	}
+
+/* pageactions
+--------------------------------------------------*/
+.pageactions li a{
+	color: #c9eefe;
+	}
+#pagelead .pagegroup, #pagelead .pagegroup:hover {
+	color: #000066;
+	}
+
+/* edit area
+--------------------------------------------------*/
+#wikiedit input, #wikiedit #text {
+	border-color: #0796C5;
+	}
+#wikiedit input[type=submit]:hover {
+	color: #000066;
+	}
+
+/* sidebar
+--------------------------------------------------*/
+#sidebar {
+	color: #666;
+	}
+#sidebar .sidehead {
+	border-bottom-color: #cfe1ac;
+	}
+#sidebar .sidehead, #sidebar a, #sidebar a:visited {
+	color: #758d38;
+	}
+#sidebar a:hover{
+	color: #000066;
+	}
+#sidebar ul li ul li{
+	border-bottom-color: #dceeb7;
+	}
+
+/* search form
+--------------------------------------------------*/
+#searchform #searchfield {
+	border-color: #8AE4FF;
+	background: #fff;
+	color: #000;
+	}
+
+/* footer
+--------------------------------------------------*/
+#footer {
+	background: url(images/footer-bg.gif) no-repeat;
+	background-color: #048db4;
+	color: #acd7ee;
+	}
+#footer a, #footer a:visited {
+	color: #fbfbfb;
+	}
+#footer h4 {
+	color: #9cdbfb;
+	}
+
+/* credits
+--------------------------------------------------*/
+#credits {
+	color: #7a9299;
+	}
+#credits a, #credit a:visited {
+	color: #048db5;
+	}

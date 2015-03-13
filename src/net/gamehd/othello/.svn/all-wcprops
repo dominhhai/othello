@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/net/gamehd/othello
+END
+GameConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/net/gamehd/othello/GameConfig.java
+END
+OthelloActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/net/gamehd/othello/OthelloActivity.java
+END
+HelpActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/net/gamehd/othello/HelpActivity.java
+END
+HighScoreActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/net/gamehd/othello/HighScoreActivity.java
+END
+OptionsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/net/gamehd/othello/OptionsActivity.java
+END
